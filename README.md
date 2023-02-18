@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React,Typescript,PHP
 - 💞️ I’m looking to collaborate on some not hard projects,I need some practise
 - 📫 How to reach me:
--   vk:d.plyasov
+-   vk:juice__wrld
 -   Telegram:d88p7
 <!---
 DenisPlyasov/DenisPlyasov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
