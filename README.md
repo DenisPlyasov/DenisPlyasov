@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DenisPlyasov
 - 👀 I’m interested in WebDeveloping(frontend)
 - 🌱 I’m currently learning React,Typescript,PHP
-- 💞️ I’m looking to collaborate on some not hard projects,I need some practise
+- 💞️ I’m looking to practice
 - 📫 How to reach me:
 -   vk:juice__wrld
 -   Telegram:d88p7
